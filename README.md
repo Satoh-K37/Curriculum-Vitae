@@ -36,7 +36,7 @@
   - [SPOILY-頑張った自分を甘やかすごほうびご飯を共有するサービス-](https://spoily.link/login)
 
 Github
-  - [ポートフォリオリポジトリ](https://github.com/Satoh-K37/spoily)
+  - [SPOILYリポジトリ](https://github.com/Satoh-K37/spoily)
 
 
 ## 自己PR
